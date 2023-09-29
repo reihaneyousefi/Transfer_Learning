@@ -417,9 +417,9 @@ The Grad-CAM visualizations for Densenet provide a clear and intuitive understan
 
 | Original Picture | First Layer | Second Layer | Third Layer | Last Layer |
 |------------------|-------------|--------------|------------|------------|
-| ![OriginalBike](docs\cmc\1667705807826_jpeg.rf.37f4ad5c2fe2e336fe589905f002b87a.jpg) | ![FLBike](docs/grad/convnext/DensenetGrad3_0.png) | ![SLBike](docs/grad/convnext/DensenetGrad2_0.png) | ![TLBike](docs/grad/convnext/DensenetGrad1_0.png) | ![LLBike](docs/grad/convnext/DensenetGrad0_0.png) |
-| ![OriginalCar](docs\cmc\1667706179241_jpeg.rf.a6df2cbdde1ecf506b3d136138c8a252.jpg) | ![FLCar](docs/grad/convnext/DensenetGrad3_3.png) | ![SLCar](docs/grad/convnext/DensenetGrad2_3.png) | ![TLCar](docs/grad/convnext/DensenetGrad1_3.png) | ![LLCar](docs/grad/convnext/DensenetGrad0_3.png) |
-| ![OriginalTruck](docs\cmc\1667708377348_jpeg.rf.d00788c9e578a20e315c80d2c43be553.jpg) | ![FLTruck](docs/grad/convnext/DensenetGrad3_5.png) | ![SLTruck](docs/grad/convnext/DensenetGrad2_5.png) | ![TLTruck](docs/grad/convnext/DensenetGrad1_5.png) | ![LLTruck](docs/grad/convnext/DensenetGrad0_5.png) |
+| ![OriginalBike](docs/cmc/1667705807826_jpeg.rf.37f4ad5c2fe2e336fe589905f002b87a.jpg) | ![FLBike](docs/grad/convnext/DensenetGrad3_0.png) | ![SLBike](docs/grad/convnext/DensenetGrad2_0.png) | ![TLBike](docs/grad/convnext/DensenetGrad1_0.png) | ![LLBike](docs/grad/convnext/DensenetGrad0_0.png) |
+| ![OriginalCar](docs/cmc/1667706179241_jpeg.rf.a6df2cbdde1ecf506b3d136138c8a252.jpg) | ![FLCar](docs/grad/convnext/DensenetGrad3_3.png) | ![SLCar](docs/grad/convnext/DensenetGrad2_3.png) | ![TLCar](docs/grad/convnext/DensenetGrad1_3.png) | ![LLCar](docs/grad/convnext/DensenetGrad0_3.png) |
+| ![OriginalTruck](docs/cmc/1667708377348_jpeg.rf.d00788c9e578a20e315c80d2c43be553.jpg) | ![FLTruck](docs/grad/convnext/DensenetGrad3_5.png) | ![SLTruck](docs/grad/convnext/DensenetGrad2_5.png) | ![TLTruck](docs/grad/convnext/DensenetGrad1_5.png) | ![LLTruck](docs/grad/convnext/DensenetGrad0_5.png) |
 
 
 
