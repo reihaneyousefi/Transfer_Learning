@@ -39,8 +39,8 @@
     <td><img src="docs/grad/Mnasnet_grad_cam_images0.png" width="200px"></td>
     <td><img src="docs\grad\SwinTransformer_grad_cam_images0666.png" width="200px"></td>
     <td><img src="docs/grad/Shufflenet_grad_cam_images0.png" width="200px"></td>
-    <td><img src="docs/grad/WideRes_grad_cam_images7.png" width="200px"></td>
-    <td><img src="docs/grad/Efficientnet_grad_cam_images7.png" width="200px"></td>
+    <td><img src="docs/grad/WideRes_grad_cam_images0.png" width="200px"></td>
+    <td><img src="docs/grad/Efficientnet_grad_cam_images0.png" width="200px"></td>
   </tr>
   <tr>
     <td><img src="docs\cmc\1667705807802_jpeg.rf.05ee7a7be5db222bfd08fe8c9dc808f1.jpg" width="200px"></td>
